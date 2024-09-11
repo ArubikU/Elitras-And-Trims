@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+      "   ",
+      "MEM",
+      "M M"
+    ],
+    "key": {
+        "M": "minecraft:diamond",
+        "E": "minecraft:elytra"
+    },
+    "result": {
+        "count": 1,
+        "id": "minecraft:diamond_chestplate",
+      "components": {
+        "minecraft:item_model": "elytra/diamond",
+        "minecraft:equippable": {
+          "slot": "chest",
+          "model": "diamond_elytra"
+        },
+        "minecraft:glider": {},
+
+        "minecraft:item_name": "{\"translate\":\"item.minecraft.elytra_diamond\",\"fallback\":\"Diamond Elytra\"}"
+      
+      }
+    }
+  }
+  

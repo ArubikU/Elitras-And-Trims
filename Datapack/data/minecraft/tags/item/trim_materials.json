@@ -1,0 +1,24 @@
+{
+  "values": [
+    "minecraft:iron_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:gold_ingot",
+    "minecraft:lapis_lazuli",
+    "minecraft:emerald",
+    "minecraft:diamond",
+    "minecraft:netherite_ingot",
+    "minecraft:redstone",
+    "minecraft:quartz",
+    "minecraft:amethyst_shard",
+    "minecraft:prismarine_crystals",
+    "minecraft:netherite_scrap",
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian",
+    "minecraft:netherrack",
+    "minecraft:popped_chorus_fruit",
+    "minecraft:ender_pearl",
+    "minecraft:magma_cream",
+    "minecraft:glowstone_dust",
+    "minecraft:echo_shard"
+  ]
+}

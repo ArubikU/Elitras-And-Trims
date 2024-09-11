@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+      "   ",
+      "MEM",
+      "M M"
+    ],
+    "key": {
+        "M": "minecraft:gold_ingot",
+        "E": "minecraft:elytra"
+    },
+    "result": {
+        "count": 1,
+        "id": "minecraft:golden_chestplate",
+      "components": {
+        "minecraft:item_model": "elytra/golden",
+        "minecraft:equippable": {
+          "slot": "chest",
+          "model": "golden_elytra"
+        },
+        "minecraft:glider": {},
+
+        "minecraft:item_name": "{\"translate\":\"item.minecraft.elytra_golden\",\"fallback\":\"golden Elytra\"}"
+      
+      }
+    }
+  }
+  

@@ -1,0 +1,296 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/elytra/diamond"
+  },
+  "overrides": [
+    
+    {
+      "predicate": {
+        "broken": 1
+      },
+      "model": "item/elytra/diamond_broken"
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_quartz_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.1
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_ender_pearl_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.193701
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_crying_obsidian_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.193702
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_echo_shard_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.193703
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_prismarine_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.193704
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_netherrack_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.193705
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_popped_chorus_fruit_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.193706
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_netherite_scrap_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.193707
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_glowstone_dust_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.193708
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_magma_cream_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.193709
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_obsidian_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.193710
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_iron_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.2
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_netherite_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.3
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_redstone_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.4
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_copper_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.5
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_gold_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.6
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_emerald_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.7
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_diamond_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.8
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_lapis_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 0.9
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra/elytra_amethyst_trim",
+      "predicate": {
+        "broken": 0,
+        "trim_type": 1.0
+      }
+    },
+    
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_quartz_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.1
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_ender_pearl_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.193701
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_crying_obsidian_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.193702
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_echo_shard_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.193703
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_prismarine_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.193704
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_netherrack_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.193705
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_popped_chorus_fruit_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.193706
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_netherite_scrap_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.193707
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_glowstone_dust_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.193708
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_magma_cream_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.193709
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_obsidian_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.193710
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_iron_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.2
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_netherite_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.3
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_redstone_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.4
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_copper_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.5
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_gold_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.6
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_emerald_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.7
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_diamond_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.8
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_lapis_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 0.9
+      }
+    },
+    {
+      "model": "arubik:item/diamond_elytra_broken/elytra_amethyst_trim",
+      "predicate": {
+        "broken": 1,
+        "trim_type": 1.0
+      }
+    }
+  ]
+}

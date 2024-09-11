@@ -1,0 +1,10 @@
+{
+  "asset_name": "crying_obsidian",
+  "description": {
+    "color": "#6006ab",
+    "translate": "trim_material.minecraft.crying_obsidian",
+    "fallback": "Crying Obsidian Material"
+  },
+  "ingredient": "minecraft:crying_obsidian",
+  "item_model_index": 0.193702
+}

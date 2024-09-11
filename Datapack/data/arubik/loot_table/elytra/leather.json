@@ -1,0 +1,28 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:leather_chestplate",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "elytra/leather",
+                "minecraft:equippable": {
+                  "slot": "chest",
+                  "model": "leather_elytra"
+                },
+                "minecraft:glider": {},
+
+                "minecraft:item_name": "{\"translate\":\"item.minecraft.elytra_leather\",\"fallback\":\"Leather Elytra\"}"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

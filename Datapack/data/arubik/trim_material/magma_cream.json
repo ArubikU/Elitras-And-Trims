@@ -1,0 +1,10 @@
+{
+  "asset_name": "magma_cream",
+  "description": {
+    "color": "#f89e44",
+    "translate": "trim_material.minecraft.magma_cream",
+    "fallback": "Magma Cream Material"
+  },
+  "ingredient": "minecraft:magma_cream",
+  "item_model_index": 0.193709
+}

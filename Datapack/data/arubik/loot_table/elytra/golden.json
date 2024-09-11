@@ -1,0 +1,28 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:golden_chestplate",
+            "functions": [
+              {
+                "function": "minecraft:set_components",
+                "components": {
+                  "minecraft:item_model": "elytra/golden",
+                  "minecraft:equippable": {
+                    "slot": "chest",
+                    "model": "golden_elytra"
+                  },
+                  "minecraft:glider": {},
+  
+                  "minecraft:item_name": "{\"translate\":\"item.minecraft.elytra_golden\",\"fallback\":\"Golden Elytra\"}"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,19 @@
+
+{
+    "trim_material.minecraft.prismarine": "Incrustación de Prismarina",
+    "trim_material.minecraft.crying_obsidian": "Incrustación de Obsidiana Llorosa",
+    "trim_material.minecraft.echo_shard": "Incrustación de Fragmento de Eco",
+    "trim_material.minecraft.ender_pearl": "Incrustación de Perla de Ender",
+    "trim_material.minecraft.glowstone_dust": "Incrustación de Polvo de Piedra Luminosa",
+    "trim_material.minecraft.magma_cream": "Incrustación de Crema de Magma",
+    "trim_material.minecraft.netherite_scrap": "Incrustación de Restos de Netherita",
+    "trim_material.minecraft.netherrack": "Incrustación de Netherrack",
+    "trim_material.minecraft.obsidian": "Incrustación de Obsidiana",
+    "trim_material.minecraft.popped_chorus_fruit": "Incrustación de Fruto de Coral",
+    "item.minecraft.elytra_leather": "Élitros de cuero",
+    "item.minecraft.elytra_golden": "Élitros de oro",
+    "item.minecraft.elytra_iron": "Élitros de hierro",
+    "item.minecraft.elytra_diamond": "Élitros de diamante",
+    "item.minecraft.elytra_netherite": "Élitros de netherita",
+    "item.minecraft.elytra_chainmail": "Élitros de cota de malla"
+}

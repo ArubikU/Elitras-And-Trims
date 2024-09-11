@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/elytra/iron",
+    "layer1": "minecraft:trims/items/wings_trim_lapis"
+  }
+}

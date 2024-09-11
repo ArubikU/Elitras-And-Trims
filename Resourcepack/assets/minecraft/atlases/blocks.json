@@ -1,0 +1,51 @@
+{
+    "sources": [
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "trims/items/leggings_trim",
+                "trims/items/chestplate_trim",
+                "trims/items/helmet_trim",
+                "trims/items/boots_trim",
+                "trims/items/wings_trim"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "redstone": "trims/color_palettes/redstone",
+                "copper": "trims/color_palettes/copper",
+                "gold": "trims/color_palettes/gold",
+                "emerald": "trims/color_palettes/emerald",
+                "diamond": "trims/color_palettes/diamond",
+                "lapis": "trims/color_palettes/lapis",
+                "amethyst": "trims/color_palettes/amethyst",
+                "quartz": "trims/color_palettes/quartz",
+                "iron": "trims/color_palettes/iron",
+                "netherite": "trims/color_palettes/netherite",
+                "prismarine": "arubik:trims/color_palettes/prismarine",
+                "netherite_scrap": "arubik:trims/color_palettes/netherite_scrap",
+                "obsidian": "arubik:trims/color_palettes/obsidian",
+                "crying_obsidian": "arubik:trims/color_palettes/crying_obsidian",
+                "netherrack": "arubik:trims/color_palettes/netherrack",
+                "popped_chorus_fruit": "arubik:trims/color_palettes/popped_chorus_fruit",
+                "ender_pearl": "arubik:trims/color_palettes/ender_pearl",
+                "magma_cream": "arubik:trims/color_palettes/magma_cream",
+                "glowstone_dust": "arubik:trims/color_palettes/glowstone_dust",
+                "echo_shard": "arubik:trims/color_palettes/echo_shard",
+                "iron_darker": "trims/color_palettes/iron_darker",
+                "gold_darker": "trims/color_palettes/gold_darker",
+                "diamond_darker": "trims/color_palettes/diamond_darker",
+                "netherite_darker": "trims/color_palettes/netherite_darker"
+            }
+        },
+        {
+            "type": "directory",
+            "source": "item",
+            "prefix": "item/"
+        },
+        {
+            "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
+        }
+    ]
+}

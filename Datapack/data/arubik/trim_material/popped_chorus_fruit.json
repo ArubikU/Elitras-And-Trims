@@ -1,0 +1,10 @@
+{
+  "asset_name": "popped_chorus_fruit",
+  "description": {
+    "color": "#ed8baa",
+    "translate": "trim_material.minecraft.popped_chorus_fruit",
+    "fallback": "Popped Chorus Fruit Material"
+  },
+  "ingredient": "minecraft:popped_chorus_fruit",
+  "item_model_index": 0.193706
+}

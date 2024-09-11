@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:smithing_transform",
+    "addition": "#minecraft:netherite_tool_materials",
+    "base": "minecraft:elytra",
+    "result": {
+      "count": 1,
+      "id": "minecraft:netherite_chestplate",
+      "components": {
+        "minecraft:item_model": "elytra/netherite",
+        "minecraft:equippable": {
+          "slot": "chest",
+          "model": "netherite_elytra"
+        },
+        "minecraft:glider": {},
+
+        "minecraft:item_name": "{\"translate\":\"item.minecraft.elytra_netherite\",\"fallback\":\"Netherite Elytra\"}"
+      
+      }
+    },
+    "template": "minecraft:netherite_upgrade_smithing_template"
+  }

@@ -1,0 +1,10 @@
+{
+  "asset_name": "netherrack",
+  "description": {
+    "color": "#713231",
+    "translate": "trim_material.minecraft.netherrack",
+    "fallback": "Netherrack Material"
+  },
+  "ingredient": "minecraft:netherrack",
+  "item_model_index": 0.193705
+}
