@@ -1,0 +1,21 @@
+{
+    "layers": {
+        "humanoid": [
+            {
+                "dyeable": {
+                    "color_when_undyed": -6265536
+                },
+                "texture": "minecraft:leather"
+            },
+            {
+                "texture": "minecraft:leather_overlay"
+            }
+        ],
+        "wings": [
+            {
+                "texture": "minecraft:chainmail_elytra",
+                "use_player_texture": true
+            }
+        ]
+    }
+}

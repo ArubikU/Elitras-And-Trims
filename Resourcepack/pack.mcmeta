@@ -1,6 +1,10 @@
 {
     "pack": {
         "pack_format": 37,
-        "description": "Elytra Trims Resource Pack"
+        "description": "Elytra Trims Resource Pack",
+		"supported_formats": {
+			"min_inclusive": 14,
+			"max_inclusive": 32767
+		}
     }
 }

@@ -1,0 +1,15 @@
+{
+    "layers": {
+        "humanoid": [
+            {
+                "texture": "minecraft:chainmail"
+            }
+        ],
+        "wings": [
+            {
+                "texture": "minecraft:chainmail_elytra",
+                "use_player_texture": true
+            }
+        ]
+    }
+}
